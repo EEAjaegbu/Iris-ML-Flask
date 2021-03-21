@@ -1,1 +1,1 @@
-web: gunicorn app:iris
+web: gunicorn app:iris.py

@@ -1,4 +1,4 @@
-from flask import Flask,render_template,url_for,redirect,request,session
+from flask import Flask,render_template,url_for,redirect,request
 import pickle
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
